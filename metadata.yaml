@@ -1,0 +1,83 @@
+_repo: Heart-of-Darkness_526
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Conrad, Joseph
+    aliases:
+    - Korzeniowski, Joseph Conrad Theodore
+    - Korzeniowski, Józef Konrad Teodor
+    - Korzeniowski, Jozef Konrad Teodor
+    birthdate: 1857
+    deathdate: 1924
+    gutenberg_agent_id: '125'
+    url: http://www.gutenberg.org/2009/agents/125
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
+description: "Heart of Darkness (1899) is a novella by Polish-British novelist Joseph\
+  \ Conrad, about a voyage up the Congo River into the Congo Free State, in the heart\
+  \ of Africa, by the story's narrator Marlow. Marlow tells his story to friends aboard\
+  \ a boat anchored on the River Thames, London, England. This setting provides the\
+  \ frame for Marlow's story of his obsession with the ivory trader Kurtz, which enables\
+  \ Conrad to create a parallel between London and Africa as places of darkness.\n\
+  Central to Conrad's work is the idea that there is little difference between so-called\
+  \ civilised people and those described as savages; Heart of Darkness raises important\
+  \ questions about imperialism and racism.\nOriginally published as a three-part\
+  \ serial story in Blackwood's Magazine, Heart of Darkness has been variously published\
+  \ and translated into many languages. In 1998, the Modern Library ranked Heart of\
+  \ Darkness as the sixty-seventh of the hundred best novels in English of the twentieth\
+  \ century.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '526'
+  wikidata: Q129778
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Africa -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Europeans -- Africa -- Fiction'
+- !lcsh 'Degeneration -- fiction'
+- !lcc 'PR'
+- !lcsh 'Trading posts -- Fiction'
+- !lcsh 'Imperialism -- Fiction'
+- GITenberg
+title: Heart of Darkness
+url: http://www.gutenberg.org/ebooks/526
+wikipedia:
+- https://fi.wikipedia.org/wiki/Pimeyden_syd%C3%A4n
+- https://pa.wikipedia.org/wiki/%E0%A8%B9%E0%A8%B0%E0%A8%9F_%E0%A8%86%E0%A8%AB%E0%A8%BC_%E0%A8%A1%E0%A8%BE%E0%A8%B0%E0%A8%95%E0%A8%A8%E0%A9%88%E0%A8%B8
+- https://fa.wikipedia.org/wiki/%D8%AF%D9%84_%D8%AA%D8%A7%D8%B1%DB%8C%DA%A9%DB%8C
+- https://en.wikisource.org/wiki/Heart_of_Darkness
+- https://uk.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D1%86%D0%B5_%D1%82%D0%B5%D0%BC%D1%80%D1%8F%D0%B2%D0%B8
+- https://gl.wikipedia.org/wiki/Coraz%C3%B3n_da_escuridade
+- https://pl.wikiquote.org/wiki/J%C4%85dro_ciemno%C5%9Bci
+- https://ja.wikipedia.org/wiki/%E9%97%87%E3%81%AE%E5%A5%A5
+- https://nn.wikipedia.org/wiki/M%C3%B8rkets_hjerte
+- https://sr.wikipedia.org/wiki/%D0%A1%D1%80%D1%86%D0%B5_%D1%82%D0%B0%D0%BC%D0%B5
+- https://es.wikipedia.org/wiki/El_coraz%C3%B3n_de_las_tinieblas
+- https://en.wikipedia.org/wiki/Heart_of_Darkness
+- https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B4%D1%86%D0%B5_%D1%82%D1%8C%D0%BC%D1%8B
+- https://bn.wikipedia.org/wiki/%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F_%E0%A6%85%E0%A6%AB_%E0%A6%A1%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%A8%E0%A7%87%E0%A6%B8
+- https://pt.wikipedia.org/wiki/Heart_of_Darkness_(livro)
+- https://fr.wikipedia.org/wiki/Au_c%C5%93ur_des_t%C3%A9n%C3%A8bres
+- https://sh.wikipedia.org/wiki/Heart_of_Darkness
+- https://zh.wikipedia.org/wiki/%E9%BB%91%E6%9A%97%E7%9A%84%E5%BF%83
+- https://en.wikiquote.org/wiki/Heart_of_Darkness
+- https://pl.wikipedia.org/wiki/J%C4%85dro_ciemno%C5%9Bci
+- https://hu.wikipedia.org/wiki/A_s%C3%B6t%C3%A9ts%C3%A9g_m%C3%A9ly%C3%A9n
+- https://sv.wikipedia.org/wiki/M%C3%B6rkrets_hj%C3%A4rta
+- https://da.wikipedia.org/wiki/M%C3%B8rkets_hjerte_(roman)
+- https://mk.wikipedia.org/wiki/%D0%A1%D1%80%D1%86%D0%B5_%D0%BD%D0%B0_%D1%82%D0%B5%D0%BC%D0%BD%D0%B8%D0%BD%D0%B0%D1%82%D0%B0
+- https://ar.wikipedia.org/wiki/%D9%82%D9%84%D8%A8_%D8%A7%D9%84%D8%B8%D9%84%D8%A7%D9%85
+- https://nl.wikipedia.org/wiki/Heart_of_Darkness_(roman)
+- https://id.wikipedia.org/wiki/Heart_of_Darkness
+- https://cs.wikipedia.org/wiki/Srdce_temnoty
+- https://de.wikipedia.org/wiki/Herz_der_Finsternis
+- https://eu.wikipedia.org/wiki/Ilunbeen_bihotzean
+- https://it.wikipedia.org/wiki/Cuore_di_tenebra
+- https://no.wikipedia.org/wiki/M%C3%B8rkets_hjerte
+- https://cs.wikiquote.org/wiki/D%C3%ADlo:Srdce_temnoty
+- https://ca.wikipedia.org/wiki/El_cor_de_les_tenebres
+- https://he.wikipedia.org/wiki/%D7%9C%D7%91_%D7%94%D7%9E%D7%90%D7%A4%D7%9C%D7%99%D7%94
