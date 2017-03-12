@@ -1,5 +1,8 @@
 _repo: Heart-of-Darkness_526
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Conrad, Joseph
@@ -25,6 +28,8 @@ description: "Heart of Darkness (1899) is a novella by Polish-British novelist J
   \ and translated into many languages. In 1998, the Modern Library ranked Heart of\
   \ Darkness as the sixty-seventh of the hundred best novels in English of the twentieth\
   \ century.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/526#Heart-of-Darkness
 gutenberg_issued: '2006-01-09'
 gutenberg_type: Text
 identifiers:
